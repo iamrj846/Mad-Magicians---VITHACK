@@ -1,0 +1,2 @@
+include ':app', ':aboutpage', ':splashscreen', 'loginapp:app', 'colorfullogin:app'
+rootProject.name='Task2'

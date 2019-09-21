@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/code_of_conduct"
+            android:icon="@drawable/ic_code_black_24dp"
+            android:title="Code of conduct" />
+
+
+
+        <item
+            android:id="@+id/Time_table"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="Teams Timetable" />
+
+        <item
+            android:id="@+id/Legal_docs"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Legal docs" />
+
+        <item
+            android:id="@+id/Brochure"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Brochure" />
+        <item
+            android:id="@+id/session_details"
+            android:icon="@drawable/ic_details_black_24dp"
+            android:title="Session details" />
+        <item
+            android:id="@+id/expansion_details"
+            android:icon="@drawable/ic_cloud_done_black_24dp"
+            android:title="Social networks" />
+        <item
+            android:id="@+id/Entity_details"
+            android:icon="@drawable/ic_details_black_24dp"
+            android:title="Developer / feedback" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+
+                android:title="" />
+            <item
+                android:id="@+id/nav_send"
+
+                android:title="" />
+        </menu>
+    </item>
+
+</menu>

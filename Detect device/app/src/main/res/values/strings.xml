@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Detect device</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutus">ERIDE is a youth run, ISO certified NGO that helps technologically backward people become digitally literate.
+     #SpreadingDigitalSmiles  #IndiaShouldChange</string>
+    <string-array name="orgsvellore">
+        <item>none</item>
+        <item> New Home Centre </item>
+        <item> Government School</item>
+        <item> Navjeevan Community Centre  </item>
+    </string-array>
+    <string-array name="orgsindore">
+        <item>none</item>
+        <item> Jwala Organisation Centre  </item>
+        <item> AAS Children Centre </item>
+        <item> AAS Organisation Centre   </item>
+    </string-array>
+    <string-array name="orgsdelhi">
+        <item>none</item>
+        <item>  Community Coaching Centre  </item>
+        <item> Bal Sahyog Connaught Centre </item>
+        <item> DCCWF</item>
+    </string-array>
+    <string-array name="topicstaught">
+        <item>none</item>
+        <item>Ice-breaking session  </item>
+        <item>Introduction to Digital Literacy </item>
+        <item>Browsers and Internet</item>
+        <item>Play Store, Google</item>
+        <item>Gmail Accounts (1)</item>
+        <item>Gmail Accounts (2)</item>
+        <item>YouTube</item>
+        <item>Google Maps</item>
+        <item>Wikipedia</item>
+        <item>PayTm, Mobile Banking</item>
+        <item>Internet Banking </item>
+        <item>Facebook, WhatsApp, LinkedIn</item>
+        <item>Naukri.com, other employment websites</item>
+        <item>Test</item>
+        <item>Test</item>
+        <item>Microsoft Word (Part 1)</item>
+        <item>Microsoft PowerPoint</item>
+        <item>Microsoft PowerPoint (Part 2)</item>
+        <item>Microsoft Excel (Part 1)</item>
+        <item>Microsoft Excel (Part 2)</item>
+        <item>Microsoft Excel (Part 3)</item>
+        <item>Test</item>
+        <item>Test</item>
+        <item>NDLM – chapter 1 (Part 1)</item>
+        <item>NDLM – chapter 1 (Part 2)</item>
+        <item>NDLM – chapter 2</item>
+        <item>NDLM – chapter 3</item>
+        <item>NDLM – chapter 4</item>
+        <item>NDLM – chapter 5</item>
+        <item>Test</item>
+    </string-array>
+    <string name="linkfb">
+        <a href="https://www.facebook.com/Eridengo/">Facebook</a>
+    </string>
+    <string name="linkin">
+        <a href="https://www.instagram.com/eride_ngo/">Instagram</a>
+    </string>
+    <string name="linktw">
+        <a href="https://twitter.com/search?q=eride+ngo">Twitter</a>
+    </string>
+    <string name="linkli">
+        <a href="https://www.linkedin.com/company/eridengo/">Linkedin</a>
+    </string>
+    <string name="legaldocs">
+        <a href="https://www.dropbox.com/sh/ek63sxx0ckouhh5/AAAz0s26wVBIjw6zhc6svFqRa?dl=0">Click here</a>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="get_information">Get Information</string>
+    <string name="hard_soft_info">Hardware and Software Information</string>
+    <string name="serial">SERIAL: </string>
+    <string name="model">MODEL: </string>
+    <string name="id">ID: </string>
+    <string name="manufacturer">MANUFACTURER: </string>
+    <string name="brand">BRAND: </string>
+    <string name="type">TYPE: </string>
+    <string name="user">USER: </string>
+    <string name="base">BASE: </string>
+    <string name="incremental">INCREMENTAL: </string>
+    <string name="sdk">SDK: </string>
+    <string name="board">BOARD: </string>
+    <string name="host">HOST: </string>
+    <string name="fingerprint">FINGERPRINT: </string>
+    <string name="versioncode">VERSION CODE: </string>
+
+</resources>

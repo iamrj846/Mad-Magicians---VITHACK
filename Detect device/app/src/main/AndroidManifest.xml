@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.welcome.eride_app">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logof"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logof"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".NavigationActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SocialActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity android:name=".FirstActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".SessionActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".VelloreActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".IndoreActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".DelhiActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".BrochureActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".CodeActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".ImageUploadActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".LegalActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity
+            android:name=".ButlegalActivity"
+            android:parentActivityName=".NavigationActivity" />
+        <activity android:name=".DetectDevice" />
+    </application>
+
+</manifest>

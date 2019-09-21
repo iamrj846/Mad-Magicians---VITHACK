@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#27c9dd</color>
+    <color name="colorPrimaryDark">#1299d8</color>
+    <color name="colorAccent">#0f1430</color>
+    <color name="primary_device_default_dark">#ce610e</color>
+    <color name="primary_dark_device_default_dark">#af4212</color>
+    <color name="background_material_dark">#af4212</color>
+    <color name="primary_material_dark_1">#ca5f0d</color>
+    <color name="colorBackground">#af4212</color>
+    <color name="background_material_light">#f0e4df</color>
+    <color name="foreground_material_light">#037ff3</color>
+</resources>
